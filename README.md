@@ -2,7 +2,7 @@
 
 The Lodash website.
 
-## Running Locally
+## You can run this locally
 
 1. Clone the repository locally.
 
